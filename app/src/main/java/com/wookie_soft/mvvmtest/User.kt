@@ -10,10 +10,8 @@ import androidx.lifecycle.MutableLiveData
 
      companion object {
 
-         val name:String
+         val name:String = "ina"
 
 
          }
      }
-
-}

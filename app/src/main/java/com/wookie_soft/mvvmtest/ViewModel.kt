@@ -18,7 +18,7 @@ class ViewModel () :ViewModel() {
         // 초기 값 설정하기
         init {
             count.value = 2
-            inputText.value = "0"
+            inputText.value = "45"
         }
 
         // 덧셈 결과 값 수정하기
